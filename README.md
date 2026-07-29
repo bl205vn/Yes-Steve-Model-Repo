@@ -18,12 +18,12 @@
 
 # Star History
 
-<a href="https://star-history.com/?repos=Elaina69/Yes-Steve-Model-Repo&type=Date#Elaina69/Yes-Steve-Model-Repo&Timeline">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Elaina69/Yes-Steve-Model-Repo&type=Timeline&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Elaina69/Yes-Steve-Model-Repo&type=Timeline" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Elaina69/Yes-Steve-Model-Repo&type=Timeline" />
- </picture>
+<a href="https://www.star-history.com/?repos=Elaina69%2FYes-Steve-Model-Repo&type=date&legend=top-left">
+     <picture>
+           <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Elaina69/Yes-Steve-Model-Repo&type=date&theme=dark&legend=top-left&sealed_token=0U4fp-p9d6CtwphTRCNFS67LhRaHhw4V3OZtBAZ57y5apsphK4Xps96g8-iPnxWJT1lJNZWc3AXwu3L3qTvbOWNfep1BLBqUM-_rFcFYtbV1D3S6qQw-PDdq26C_p2rG-LJfa651lPQOd_nEaqWdSmLBmCWqVv-_e63XW7cLFkUNEDHeBSX28heQZ_pk" />
+           <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Elaina69/Yes-Steve-Model-Repo&type=date&legend=top-left&sealed_token=0U4fp-p9d6CtwphTRCNFS67LhRaHhw4V3OZtBAZ57y5apsphK4Xps96g8-iPnxWJT1lJNZWc3AXwu3L3qTvbOWNfep1BLBqUM-_rFcFYtbV1D3S6qQw-PDdq26C_p2rG-LJfa651lPQOd_nEaqWdSmLBmCWqVv-_e63XW7cLFkUNEDHeBSX28heQZ_pk" />
+           <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Elaina69/Yes-Steve-Model-Repo&type=date&legend=top-left&sealed_token=0U4fp-p9d6CtwphTRCNFS67LhRaHhw4V3OZtBAZ57y5apsphK4Xps96g8-iPnxWJT1lJNZWc3AXwu3L3qTvbOWNfep1BLBqUM-_rFcFYtbV1D3S6qQw-PDdq26C_p2rG-LJfa651lPQOd_nEaqWdSmLBmCWqVv-_e63XW7cLFkUNEDHeBSX28heQZ_pk" />
+     </picture>
 </a>
 
 ## 🙏 Support
